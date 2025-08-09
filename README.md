@@ -1,7 +1,7 @@
 
 # 🎁 Jogo do Amigo Secreto
 
-Este é um simples programa de **Amigo Secreto**, desenvolvido como parte de um projeto proposto no curso de desenvolvedor juntamente com a **Alura + One Oracle**.  
+Este é um simples programa de **Amigo Secreto**, desenvolvido como parte de um projeto proposto no curso de desenvolvedor juntamente com a **One Oracle + Alura**.  
 O sistema permite a inserção anônima de participantes e realiza o sorteio aleatório entre eles, garantindo que ninguém tire a si mesmo.
 
 ---
@@ -55,4 +55,5 @@ sortearAmigoSecreto();
     O sorteio é aleatório a cada execução.
 
 ### 👨‍🏫 Projeto escolar
-    Este projeto foi desenvolvido com fins educacionais juntamente com a Alura+One Oracle para praticar lógica de programação numa interação entre HTML e JavaScript.
+
+    Este projeto foi desenvolvido com fins educacionais juntamente com a Oracle One + Alura para praticar lógica de programação numa interação entre HTML e JavaScript.
